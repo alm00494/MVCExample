@@ -6,6 +6,8 @@ public abstract class AbstractBankAccount {
 	protected int accountNum;
 	protected int balance;
 	
+	//test comment
+	
 	public AbstractBankAccount(String name, int num, int amt)
     {
     	this.accountName=name;
